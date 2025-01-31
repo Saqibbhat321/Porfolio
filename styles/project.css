@@ -1,0 +1,28 @@
+
+/* Projects Section */
+#projects {
+    padding: 100px 0;
+  }
+  .card-body{
+    font-size: x-large;
+  }
+  .card-title{
+    color: #007bff;
+    font-size: 32px;
+    background-color: whitesmoke;
+    border-radius: 70px;
+  }
+  .subtitles{
+    font: 1em sans-serif;
+  }
+  
+  .btn-primary {
+    background-color: #3498db;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2980b9;
+  }

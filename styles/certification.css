@@ -1,0 +1,18 @@
+
+
+/* Certifications Section */
+#certifications {
+    padding: 100px 0;
+    
+  }
+   
+  
+  .list-group-item {
+    font-size: 1.1rem;
+    border: none;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: x-large;
+  }
+  
+  

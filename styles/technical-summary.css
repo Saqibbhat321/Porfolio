@@ -1,0 +1,21 @@
+
+/* Technical Summary Section */
+#technical-summary {
+    padding: 100px 0;
+    font-size: xx-large;
+  }
+  
+  .accordion-button {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .accordion-header{
+    font-size: xx-large;
+  }
+  .accordion-body{
+    font-size: x-large;
+  
+  }
+  .accordion-item{
+    background-color:wheat;
+  }

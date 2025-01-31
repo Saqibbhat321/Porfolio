@@ -1,0 +1,47 @@
+
+/* About Section */
+#about {
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    padding: 100px 0;
+  }
+  
+  #about img {
+    max-width: 60%;
+    border: 5px solid #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .dynamic-text {
+    font-size: 100px;
+    font-weight: bold;
+    color: #2c3e50;
+  
+  }
+  .lead{
+    font-size: 64px;
+  }
+  
+  .word {
+    display: none;
+    color: #3498db;
+  }
+  
+  .word.show {
+    display: inline-block;
+  }
+  
+  .resume-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  .resume-button:hover {
+    background-color: #0056b3;
+  }
+  

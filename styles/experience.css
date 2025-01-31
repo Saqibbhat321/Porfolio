@@ -1,0 +1,13 @@
+
+/* Experience Section */
+#experience {
+    padding: 100px 0;
+  }
+  
+  .card {
+    border: none;
+    transition: transform 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-10px);
+  }
