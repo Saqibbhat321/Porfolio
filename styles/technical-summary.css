@@ -3,19 +3,25 @@
 #technical-summary {
     padding: 100px 0;
     font-size: xx-large;
+    background: linear-gradient(135deg, #000000, #285c1e);
+
   }
   
   .accordion-button {
-    font-size: 1.2rem;
+    font-size: 2rem;
     font-weight: bold;
+    color:rgb(211, 189, 180);
+    background: linear-gradient(135deg, #000000, #285c1e);
   }
   .accordion-header{
     font-size: xx-large;
   }
   .accordion-body{
     font-size: x-large;
+    color:white;
   
   }
   .accordion-item{
-    background-color:wheat;
+    background: linear-gradient(135deg, #000000, #285c1e);
   }
+ 

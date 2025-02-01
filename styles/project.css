@@ -1,26 +1,30 @@
 
 /* Projects Section */
 #projects {
-    padding: 100px 0;
-  }
-  .card-body{
-    font-size: x-large;
-  }
-  .card-title{
-    color: #007bff;
+  padding: 100px 0;
+  background: linear-gradient(135deg, #000000, #285c1e);
+
+  
+}
+.card-body{
+  font-size: x-large;
+}
+.card-title{
+    color: #e2e606;
     font-size: 32px;
-    background-color: whitesmoke;
-    border-radius: 70px;
+    background-color: rgba(97, 21, 21, 0.4);
+    border-radius: 10px;
   }
   .subtitles{
     font: 1em sans-serif;
   }
   
   .btn-primary {
-    background-color: #3498db;
-    border: none;
+    background-color: #60723e;
+    color: #00cad8;
+    order: none;
     padding: 10px 20px;
-    font-size: 1rem;
+    font-size: 1.3rem;
   }
   
   .btn-primary:hover {

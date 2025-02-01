@@ -1,7 +1,7 @@
 
 /* About Section */
 #about {
-    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    background: linear-gradient(135deg, #000000, #285c1e);
     padding: 100px 0;
   }
   
@@ -12,18 +12,25 @@
   }
   
   .dynamic-text {
-    font-size: 100px;
+    font-size: 70px;
     font-weight: bold;
-    color: #2c3e50;
-  
+    color: #4d8d3a;
+    transition: opacity 0.9s;
+    font-family: cursive;
+    
   }
   .lead{
-    font-size: 64px;
+    font-size: 76px;
+    color:#6cbe0e;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   .word {
     display: none;
-    color: #3498db;
+    color: #d3d036;
+    white-space: nowrap;
+    position: absolute;
   }
   
   .word.show {
@@ -33,15 +40,19 @@
   .resume-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
+    background-color: #a2f10f;
+    color: #1aa5af;
     border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    font-size: 16px;
-    transition: background-color 0.3s;
+    border-radius: 36px;
+    text-decoration: dotted;
+    font-size: 26px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: background-color 0.6s;
+    margin-top: 50px;
+    margin-left: 160px;
   }
   .resume-button:hover {
-    background-color: #0056b3;
+    background-color: #afa626;
+    box-shadow: 10px 10px 12px rgba(0, 0, 0, 0.5);
   }
   
