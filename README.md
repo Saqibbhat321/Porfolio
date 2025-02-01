@@ -7,7 +7,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and certifi
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Certifications](#certifications)
 - [Projects](#projects)
